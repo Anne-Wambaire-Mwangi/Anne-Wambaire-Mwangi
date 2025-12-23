@@ -36,7 +36,7 @@ Achieve greater mission impact, efficient use of funding, evidence-backed report
 `Power BI` `Seaborn` `Matplotlib` `ggplot2`
 
 **Other Skills**  
-`Database Design` `Data Modelling` `Power Tools`
+`Database Design` `Data Modelling` `Power Tools` `Machine Learning`
 
 ---
 
