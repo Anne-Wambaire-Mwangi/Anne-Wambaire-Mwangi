@@ -1,5 +1,8 @@
 # Oh, you found my GitHub.
-That usually means you’re here to judge my work please do.
+
+welcome 
+
+Without further ado, feel free to explore the projects below.
 ↓
 ---
 
