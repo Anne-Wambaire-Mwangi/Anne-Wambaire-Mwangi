@@ -1,7 +1,7 @@
-# Oh, you found my GitHub. Welcome 
+# Oh, you found my GitHub. Welcome!
 
-Without further ado, feel free to explore the projects below.
-↓
+-Feel free to explore my projects in the repositories
+
 ---
 
 ## What I'm Currently Working On
