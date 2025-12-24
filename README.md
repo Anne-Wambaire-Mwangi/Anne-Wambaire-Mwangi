@@ -1,6 +1,6 @@
 # Oh, you found my GitHub. Welcome!
 
--Feel free to explore my projects in the repositories
+- Feel free to explore my projects in the repositories
 
 ---
 
