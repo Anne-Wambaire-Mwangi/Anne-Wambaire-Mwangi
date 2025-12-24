@@ -1,6 +1,4 @@
-# Oh, you found my GitHub.
-
-welcome 
+# Oh, you found my GitHub. Welcome 
 
 Without further ado, feel free to explore the projects below.
 ↓
