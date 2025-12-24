@@ -1,23 +1,13 @@
-# Hi, I'm Anne Mwangi 
+# Oh, you found my GitHub.
+That usually means you’re here to judge my work — please do.
+↓
+## Hi, I'm Anne Mwangi 
 
 **Business Intelligence Analyst | Economics Background | Based in Canada**
 
 ---
 
-## What I Do
 
-I help organizations turn data into actionable insights that drive measurable results.
-
-### Businesses
-Achieve higher revenue, reduced costs, better customer understanding, optimized operations, and clearer forecasting — without increasing marketing spend, over-hiring, or slowing down processes.
-
-### Financial Institutions
-Achieve better risk management, stronger investment decisions, improved compliance, optimized portfolios, and smarter lending — without unnecessary exposure, regulatory penalties, or relying on outdated, manual reporting.
-
-### Nonprofits & NGOs
-Achieve greater mission impact, efficient use of funding, evidence-backed reporting, better targeting of communities, and stronger grant proposals — without wasting limited resources, misallocating budgets, or making decisions blindly.
-
----
 
 ## What I'm Currently Working On
 
