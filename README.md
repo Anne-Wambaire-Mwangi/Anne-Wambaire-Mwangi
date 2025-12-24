@@ -1,13 +1,7 @@
 # Oh, you found my GitHub.
-That usually means you’re here to judge my work — please do.
+That usually means you’re here to judge my work please do.
 ↓
-## Hi, I'm Anne Mwangi 
-
-**Business Intelligence Analyst | Economics Background | Based in Canada**
-
 ---
-
-
 
 ## What I'm Currently Working On
 
