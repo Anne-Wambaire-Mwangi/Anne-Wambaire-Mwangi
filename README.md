@@ -1,7 +1,7 @@
 # Hi, I'm Anne, Welcome! 
 
 I help organizations turn data into actionable insights that drive measurable results.
-By combining analytics, business intelligence, and AI, I enable businesses, financial institutions, and nonprofits to make smarter decisions—boosting performance, reducing risk, and maximizing impact without wasting time or resources.
+By combining analytics, business intelligence, and AI, I enable businesses, financial institutions, and nonprofits to make smarter decisions, boosting performance, reducing risk, and maximizing impact without wasting time or resources.
 
 ---
 
