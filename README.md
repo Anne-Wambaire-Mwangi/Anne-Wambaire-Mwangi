@@ -19,7 +19,7 @@ By combining analytics, business intelligence, and AI, I enable businesses, fina
 `Python` `SQL` `Pandas` `NumPy`
 
 **Visualization**  
-`Power BI` `Seaborn` `Matplotlib` `ggplot2`
+`Power BI` `Seaborn` `Matplotlib` `ggplot2` `Flourish.studio`
 
 **Other Skills**  
 `Database Design` `Data Modelling` `Power Tools` `Machine Learning`
