@@ -16,7 +16,7 @@ By combining analytics, business intelligence, and AI, I enable businesses, fina
 ## Tech Stack & Tools
 
 **Programming & Analysis**  
-`Python` `SQL` `Pandas` `NumPy`
+`Python` `SQL` `Pandas` `NumPy` `Machine Learning`
 
 **Visualization**  
 `Power BI` `Seaborn` `Matplotlib` `ggplot2` `Flourish.studio`
